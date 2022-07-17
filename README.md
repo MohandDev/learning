@@ -1,1 +1,1 @@
-# learning
+hey so basically just learning to link my project with github, nothing special here.
